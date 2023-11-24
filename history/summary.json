@@ -4,9 +4,9 @@
     "url": "https://www.peterjse.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.peterjse.com.ico",
     "slug": "peter-jse-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 1175,
     "timeMonth": 1215,
     "timeYear": 1215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-24": 0
+    }
   },
   {
     "name": "Hornsea Pottery",
     "url": "https://hornseapottery.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/hornseapottery.co.uk.ico",
     "slug": "hornsea-pottery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 1621,
     "timeMonth": 1715,
     "timeYear": 1715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-24": 0
+    }
   }
 ]
