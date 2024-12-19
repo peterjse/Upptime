@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.peterjse.com.ico",
     "slug": "peter-jse-com",
     "status": "up",
-    "uptime": "96.48%",
+    "uptime": "96.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "96.75%",
-    "time": 1351,
-    "timeDay": 528,
-    "timeWeek": 630,
-    "timeMonth": 1094,
-    "timeYear": 1356,
+    "uptimeYear": "96.80%",
+    "time": 1349,
+    "timeDay": 524,
+    "timeWeek": 627,
+    "timeMonth": 1095,
+    "timeYear": 1353,
     "dailyMinutesDown": {
       "2024-12-10": 32,
       "2024-12-03": 33,
@@ -84,8 +84,7 @@
       "2024-02-03": 315,
       "2024-01-19": 557,
       "2024-01-16": 324,
-      "2023-12-27": 358,
-      "2023-12-20": 357
+      "2023-12-27": 358
     }
   },
   {
@@ -94,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hornseapottery.co.uk.ico",
     "slug": "hornsea-pottery",
     "status": "up",
-    "uptime": "96.53%",
+    "uptime": "96.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "96.82%",
-    "time": 1738,
-    "timeDay": 1274,
-    "timeWeek": 2682,
-    "timeMonth": 1690,
-    "timeYear": 1727,
+    "uptimeYear": "96.87%",
+    "time": 1736,
+    "timeDay": 1233,
+    "timeWeek": 2147,
+    "timeMonth": 1696,
+    "timeYear": 1728,
     "dailyMinutesDown": {
       "2024-12-09": 17,
       "2024-11-01": 19,
@@ -170,8 +169,7 @@
       "2024-02-03": 315,
       "2024-01-19": 557,
       "2024-01-16": 324,
-      "2023-12-27": 358,
-      "2023-12-20": 357
+      "2023-12-27": 358
     }
   }
 ]
