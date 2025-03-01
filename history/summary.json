@@ -6,15 +6,15 @@
     "slug": "peter-jse-com",
     "status": "up",
     "uptime": "96.96%",
-    "uptimeDay": "98.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "97.50%",
-    "time": 1293,
-    "timeDay": 1110,
-    "timeWeek": 1181,
-    "timeMonth": 1004,
-    "timeYear": 1267,
+    "time": 1292,
+    "timeDay": 586,
+    "timeWeek": 1198,
+    "timeMonth": 995,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2025-02-27": 25,
       "2025-02-25": 24,
@@ -85,8 +85,7 @@
       "2024-03-20": 312,
       "2024-03-17": 317,
       "2024-03-13": 598,
-      "2024-03-09": 255,
-      "2024-03-01": 334
+      "2024-03-09": 255
     }
   }
 ]
