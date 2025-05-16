@@ -4,8 +4,8 @@
     "url": "https://www.peterjse.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.peterjse.com.ico",
     "slug": "peter-jse-com",
-    "status": "up",
-    "uptime": "97.70%",
+    "status": "down",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.61%",
@@ -16,6 +16,7 @@
     "timeMonth": 941,
     "timeYear": 1149,
     "dailyMinutesDown": {
+      "2025-05-16": 0,
       "2025-05-13": 18,
       "2025-05-10": 32,
       "2025-05-04": 44,
