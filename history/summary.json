@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.peterjse.com.ico",
     "slug": "peter-jse-com",
     "status": "down",
-    "uptime": "77.48%",
+    "uptime": "77.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.16%",
-    "time": 1068,
+    "uptimeYear": "59.88%",
+    "time": 1066,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 950,
+    "timeYear": 949,
     "dailyMinutesDown": {
-      "2025-10-13": 26,
+      "2025-10-14": 24,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -200,8 +201,7 @@
       "2024-11-03": 15,
       "2024-10-26": 31,
       "2024-10-18": 36,
-      "2024-10-17": 22,
-      "2024-10-14": 25
+      "2024-10-17": 22
     }
   }
 ]
